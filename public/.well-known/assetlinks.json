@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.janpen.minimart",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:0F:52:EC:6B:54:EB:1F:B5:E9:90:50:52:66:94:07:9F:8B:23:70:C9:46:61:52:16:B3:7A:B4:C2"
+      ]
+    }
+  }
+]

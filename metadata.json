@@ -1,0 +1,6 @@
+{
+  "name": "Janpen Minimart-Shopee Affiliate",
+  "description": "ร้านค้าออนไลน์ จันทร์เพ็ญ มินิมาร์ท และระบบ Shopee Affiliate โดย เกษม ม. (Kasem . M) พร้อมระบบแปลงลิงก์ค่าคอมมิชชันและวิเคราะห์ยอดขาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
