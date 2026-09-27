@@ -6,6 +6,7 @@ import {VitePWA} from 'vite-plugin-pwa';
 
 export default defineConfig(() => {
   return {
+    base: '/janpen-minimart-affiliate/', // <--- เพิ่มบรรทัดนี้เข้าไปในต้นฉบับของคุณครับ
     plugins: [
       react(),
       tailwindcss(),
